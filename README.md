@@ -90,8 +90,6 @@ Ethics, Professionalism and Employability in Computing
 
 Diploma in Information Creative Technology (IT) Level 3 - Distinction (D)
 
-Diploma in Information Technology (IT) Level 2 - Merit/Distinction (MD)
-
 Maths 	2020	Level 4
 
 English 	2019	Level 4
@@ -99,6 +97,8 @@ English 	2019	Level 4
 **Ashford College - September 2017 - July 2019**
 
 ICT/Business Level 1	2018	Merit/Merit
+
+Diploma in Information Technology (IT) Level 2 - Merit/Distinction (MD)
 
 **East Kent College (Folkestone) - September 2016- July 2017**
 
